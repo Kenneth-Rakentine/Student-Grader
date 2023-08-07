@@ -1,0 +1,62 @@
+.App {
+  display: block;
+  justify-content: space-evenly;
+}
+
+.bioText{
+  display:flex;
+  font-size:20px;
+  font-weight: bold;
+  color:rgb(51, 28, 105);
+  justify-content:center;
+}
+
+.studentContainer{
+  justify-content:center;
+  color:black;
+  width: 60%;
+  background-color: rgb(187, 189, 221);
+  margin:10px;
+  margin-left:30%;
+  border-radius:12px;
+  box-shadow: 2px 3px 2px 2px black;
+}
+
+.student{ 
+  text-decoration: underline;
+  color:rgb(82, 30, 82);
+text-align: center;
+font-size:22px;
+margin-top:16px;
+padding-top:10px;
+}
+
+.bioBody{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15px;
+  margin:17px;
+  color:rgb(73, 51, 51);
+}
+
+.date{
+text-decoration: underline;
+font-size:17px;
+margin-left:4%;
+color:brown;
+}
+
+.score{
+  text-decoration: underline;
+  text-align: right;
+  font-size:17px;
+  margin-left:62%;
+  color:brown;
+}
+
+.scoreContainer{
+  display: flex;
+}
+
+
+
+
